@@ -1,0 +1,7 @@
+##ignore this file##
+
+*.xml
+.idea/inspectionProfiles/
+.idea/studyPy.iml
+.vscode/
+.gitignore

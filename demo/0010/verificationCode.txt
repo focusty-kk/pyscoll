@@ -1,0 +1,10 @@
+引入package: PIL { Image ,ImageDraw ,ImageFont,ImageFilter}
+            random
+
+
+
+1，创建Image对象
+2，创建ImageFont对象
+3，绘制img,给每个像素填充颜色
+4，输出文字
+5，增加滤镜
